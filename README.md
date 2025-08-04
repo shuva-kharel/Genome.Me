@@ -75,45 +75,42 @@ Just provide some basic personal and lifestyle information:
 
 ## 🚀 Run Locally
 
+Clone the repository
 ```bash
-# Clone the repository
 git clone https://github.com/shuva-kharel/Genome.Me.git
 cd Genome.Me
 ```
 
-# Install dependencies
+Install dependencies
 ```bash
 npm install
 ```
 
-# Start the dev server
+Start the dev server
 ```bash
 npm run dev
 ```
 
-# Open in your browser
+## Open in your browser
 http://localhost:3000
 
-🌐 Live Demo
+## 🌐 Live Demo
 Check out the app live at:
 🔗 https://genome-me.vercel.app
 
-🙌 Contributing
+## 🙌 Contributing
 Have ideas to improve this futuristic concept? Contributions are welcome!
 
 
-🔐 Privacy First
-No user data is stored, sent, or tracked
+## 🔐 Privacy First
+- No user data is stored, sent, or tracked
+- All calculations are client-side only
+- You own your insights
 
-All calculations are client-side only
+### 💬 This is not real genetic science — it’s pseudo-genetic profiling mixed with personality psychology, designed to be engaging, not diagnostic.
 
-You own your insights
+## 🧠 Inspiration
+- Inspired by the idea that our behavior, environment, and habits often say more than our actual genes — this project brings the power of introspection and machine logic to your browser.
+- No labs. No cost. Just pure predictive play.
 
-💬 This is not real genetic science — it’s pseudo-genetic profiling mixed with personality psychology, designed to be engaging, not diagnostic.
-
-🧠 Inspiration
-Inspired by the idea that our behavior, environment, and habits often say more than our actual genes — this project brings the power of introspection and machine logic to your browser.
-
-No labs. No cost. Just pure predictive play.
-
-✍️ Made with curiosity, caffeine, and ❤️ by [Shuva Kharel](https://github.com/shuva-kharel/)
+## ✍️ Made with curiosity, caffeine, and ❤️ by [Shuva Kharel](https://github.com/shuva-kharel/)
